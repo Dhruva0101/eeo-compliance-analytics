@@ -1,0 +1,283 @@
+check_name,source,record_id,detail
+ats_hire_missing_in_hris,HRIS vs ATS,E04104,applicant A000417 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04105,applicant A000418 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04369,applicant A001601 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04411,applicant A001815 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04454,applicant A001995 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04556,applicant A002466 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04598,applicant A002613 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04685,applicant A002970 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04788,applicant A003460 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04830,applicant A003629 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04863,applicant A003756 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04899,applicant A003960 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E04995,applicant A004407 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E05213,applicant A005444 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E05354,applicant A006145 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E05516,applicant A006876 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E05590,applicant A007198 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E05678,applicant A007538 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E05728,applicant A007798 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E05850,applicant A008307 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E05936,applicant A008630 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E06040,applicant A009052 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E06099,applicant A009289 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E06188,applicant A009683 hired but employee not in HRIS
+ats_hire_missing_in_hris,HRIS vs ATS,E06221,applicant A009850 hired but employee not in HRIS
+demographic_mismatch,HRIS vs ATS,E04014,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E04065,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E04142,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E04171,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E04179,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E04208,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E04227,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E04443,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E04590,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E04650,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E04676,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E04820,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E04824,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E04875,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E04972,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E05063,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E05091,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E05129,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E05246,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E05349,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E05388,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E05390,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E05593,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E05629,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E05703,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E05793,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E05801,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E06027,"sex: HRIS=Male, ATS=Female"
+demographic_mismatch,HRIS vs ATS,E06035,"sex: HRIS=Female, ATS=Male"
+demographic_mismatch,HRIS vs ATS,E06178,"sex: HRIS=Male, ATS=Female"
+duplicate_employee_id,HRIS,E00020,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00045,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00119,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00120,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00159,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00247,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00312,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00318,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00327,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00374,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00408,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00444,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00491,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00588,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00651,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00694,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00699,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00823,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00967,2 rows for this employee_id
+duplicate_employee_id,HRIS,E00972,2 rows for this employee_id
+duplicate_employee_id,HRIS,E01166,2 rows for this employee_id
+duplicate_employee_id,HRIS,E01190,2 rows for this employee_id
+duplicate_employee_id,HRIS,E01277,2 rows for this employee_id
+duplicate_employee_id,HRIS,E01334,2 rows for this employee_id
+duplicate_employee_id,HRIS,E01578,2 rows for this employee_id
+duplicate_employee_id,HRIS,E01602,2 rows for this employee_id
+duplicate_employee_id,HRIS,E01619,2 rows for this employee_id
+duplicate_employee_id,HRIS,E01701,2 rows for this employee_id
+duplicate_employee_id,HRIS,E01888,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02043,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02050,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02069,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02104,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02145,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02148,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02242,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02255,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02410,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02419,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02508,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02560,2 rows for this employee_id
+duplicate_employee_id,HRIS,E02566,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03082,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03136,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03149,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03153,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03275,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03473,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03534,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03545,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03609,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03614,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03842,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03904,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03915,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03918,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03924,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03932,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03973,2 rows for this employee_id
+duplicate_employee_id,HRIS,E03990,2 rows for this employee_id
+hris_hire_missing_in_ats,HRIS vs ATS,E06254,hired 2024-08-09 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06255,hired 2024-07-31 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06256,hired 2025-03-26 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06257,hired 2025-03-16 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06258,hired 2025-10-12 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06259,hired 2025-03-09 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06260,hired 2024-02-03 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06261,hired 2025-07-30 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06262,hired 2025-03-29 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06263,hired 2024-03-28 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06264,hired 2024-03-20 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06265,hired 2024-11-10 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06266,hired 2025-10-29 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06267,hired 2024-03-18 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06268,hired 2024-09-28 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06269,hired 2025-07-23 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06270,hired 2024-07-23 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06271,hired 2024-09-22 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06272,hired 2024-02-04 with no applicant record
+hris_hire_missing_in_ats,HRIS vs ATS,E06273,hired 2025-07-14 with no applicant record
+invalid_hire_date,HRIS,E00039,"hire_date ""2027-03-15"" is after snapshot date"
+invalid_hire_date,HRIS,E00296,"hire_date ""2027-03-15"" is after snapshot date"
+invalid_hire_date,HRIS,E00984,"hire_date ""2027-03-15"" is after snapshot date"
+invalid_hire_date,HRIS,E01029,"hire_date ""2027-03-15"" is after snapshot date"
+invalid_hire_date,HRIS,E01340,"hire_date ""2027-03-15"" is after snapshot date"
+invalid_hire_date,HRIS,E01381,"hire_date ""2027-03-15"" is after snapshot date"
+invalid_hire_date,HRIS,E02331,"hire_date ""2027-03-15"" is after snapshot date"
+invalid_hire_date,HRIS,E02414,"hire_date ""2027-03-15"" is after snapshot date"
+invalid_hire_date,HRIS,E02430,"hire_date ""2024-13-40"" is malformed"
+invalid_hire_date,HRIS,E02769,"hire_date ""2024-13-40"" is malformed"
+invalid_hire_date,HRIS,E03107,"hire_date ""2024-13-40"" is malformed"
+invalid_hire_date,HRIS,E03185,"hire_date ""2024-13-40"" is malformed"
+missing_demographics,HRIS,E00133,sex is blank
+missing_demographics,HRIS,E00148,race_ethnicity is blank
+missing_demographics,HRIS,E00177,sex is blank
+missing_demographics,HRIS,E00187,race_ethnicity is blank
+missing_demographics,HRIS,E00278,sex is blank
+missing_demographics,HRIS,E00340,race_ethnicity is blank
+missing_demographics,HRIS,E00367,sex is blank
+missing_demographics,HRIS,E00501,race_ethnicity is blank
+missing_demographics,HRIS,E00507,sex is blank
+missing_demographics,HRIS,E00618,race_ethnicity is blank
+missing_demographics,HRIS,E00653,sex is blank
+missing_demographics,HRIS,E00666,race_ethnicity is blank
+missing_demographics,HRIS,E00754,sex is blank
+missing_demographics,HRIS,E00822,race_ethnicity is blank
+missing_demographics,HRIS,E00831,sex is blank
+missing_demographics,HRIS,E00861,race_ethnicity is blank
+missing_demographics,HRIS,E00875,sex is blank
+missing_demographics,HRIS,E00896,race_ethnicity is blank
+missing_demographics,HRIS,E00898,sex is blank
+missing_demographics,HRIS,E00908,race_ethnicity is blank
+missing_demographics,HRIS,E00980,sex is blank
+missing_demographics,HRIS,E00989,race_ethnicity is blank
+missing_demographics,HRIS,E01005,sex is blank
+missing_demographics,HRIS,E01085,race_ethnicity is blank
+missing_demographics,HRIS,E01173,sex is blank
+missing_demographics,HRIS,E01270,race_ethnicity is blank
+missing_demographics,HRIS,E01291,sex is blank
+missing_demographics,HRIS,E01303,race_ethnicity is blank
+missing_demographics,HRIS,E01363,sex is blank
+missing_demographics,HRIS,E01375,race_ethnicity is blank
+missing_demographics,HRIS,E01421,sex is blank
+missing_demographics,HRIS,E01455,race_ethnicity is blank
+missing_demographics,HRIS,E01504,sex is blank
+missing_demographics,HRIS,E01592,race_ethnicity is blank
+missing_demographics,HRIS,E01628,sex is blank
+missing_demographics,HRIS,E01629,race_ethnicity is blank
+missing_demographics,HRIS,E01669,sex is blank
+missing_demographics,HRIS,E01694,race_ethnicity is blank
+missing_demographics,HRIS,E01720,sex is blank
+missing_demographics,HRIS,E01771,race_ethnicity is blank
+missing_demographics,HRIS,E01784,sex is blank
+missing_demographics,HRIS,E01847,race_ethnicity is blank
+missing_demographics,HRIS,E01930,sex is blank
+missing_demographics,HRIS,E01943,race_ethnicity is blank
+missing_demographics,HRIS,E02008,sex is blank
+missing_demographics,HRIS,E02066,race_ethnicity is blank
+missing_demographics,HRIS,E02099,sex is blank
+missing_demographics,HRIS,E02147,race_ethnicity is blank
+missing_demographics,HRIS,E02175,sex is blank
+missing_demographics,HRIS,E02232,race_ethnicity is blank
+missing_demographics,HRIS,E02247,sex is blank
+missing_demographics,HRIS,E02251,race_ethnicity is blank
+missing_demographics,HRIS,E02260,sex is blank
+missing_demographics,HRIS,E02311,race_ethnicity is blank
+missing_demographics,HRIS,E02324,sex is blank
+missing_demographics,HRIS,E02352,race_ethnicity is blank
+missing_demographics,HRIS,E02420,sex is blank
+missing_demographics,HRIS,E02456,race_ethnicity is blank
+missing_demographics,HRIS,E02498,sex is blank
+missing_demographics,HRIS,E02512,race_ethnicity is blank
+missing_demographics,HRIS,E02526,sex is blank
+missing_demographics,HRIS,E02624,race_ethnicity is blank
+missing_demographics,HRIS,E02625,sex is blank
+missing_demographics,HRIS,E02662,race_ethnicity is blank
+missing_demographics,HRIS,E02665,sex is blank
+missing_demographics,HRIS,E02678,race_ethnicity is blank
+missing_demographics,HRIS,E02795,sex is blank
+missing_demographics,HRIS,E02825,race_ethnicity is blank
+missing_demographics,HRIS,E02865,sex is blank
+missing_demographics,HRIS,E02881,race_ethnicity is blank
+missing_demographics,HRIS,E02887,sex is blank
+missing_demographics,HRIS,E02936,race_ethnicity is blank
+missing_demographics,HRIS,E02937,sex is blank
+missing_demographics,HRIS,E03020,race_ethnicity is blank
+missing_demographics,HRIS,E03042,sex is blank
+missing_demographics,HRIS,E03084,race_ethnicity is blank
+missing_demographics,HRIS,E03104,sex is blank
+missing_demographics,HRIS,E03189,race_ethnicity is blank
+missing_demographics,HRIS,E03194,sex is blank
+missing_demographics,HRIS,E03205,race_ethnicity is blank
+missing_demographics,HRIS,E03211,sex is blank
+missing_demographics,HRIS,E03234,race_ethnicity is blank
+missing_demographics,HRIS,E03413,sex is blank
+missing_demographics,HRIS,E03587,race_ethnicity is blank
+missing_demographics,HRIS,E03593,sex is blank
+missing_demographics,HRIS,E03698,race_ethnicity is blank
+missing_demographics,HRIS,E03730,sex is blank
+missing_demographics,HRIS,E03897,race_ethnicity is blank
+missing_demographics,HRIS,E03921,sex is blank
+missing_demographics,HRIS,E03962,race_ethnicity is blank
+unmapped_job_title,HRIS,E00378,"title ""Sr. Data Analyst"" not in job_title_map"
+unmapped_job_title,HRIS,E00417,"title ""Data Analyst II"" not in job_title_map"
+unmapped_job_title,HRIS,E00456,"title ""SW Engineer"" not in job_title_map"
+unmapped_job_title,HRIS,E00521,"title ""Acct Executive"" not in job_title_map"
+unmapped_job_title,HRIS,E00534,"title ""Admin Assistant"" not in job_title_map"
+unmapped_job_title,HRIS,E00687,"title ""Warehouse Assoc."" not in job_title_map"
+unmapped_job_title,HRIS,E00769,"title ""Sr. Data Analyst"" not in job_title_map"
+unmapped_job_title,HRIS,E00782,"title ""Data Analyst II"" not in job_title_map"
+unmapped_job_title,HRIS,E00855,"title ""SW Engineer"" not in job_title_map"
+unmapped_job_title,HRIS,E00988,"title ""Acct Executive"" not in job_title_map"
+unmapped_job_title,HRIS,E01181,"title ""Admin Assistant"" not in job_title_map"
+unmapped_job_title,HRIS,E01407,"title ""Warehouse Assoc."" not in job_title_map"
+unmapped_job_title,HRIS,E01415,"title ""Sr. Data Analyst"" not in job_title_map"
+unmapped_job_title,HRIS,E01423,"title ""Data Analyst II"" not in job_title_map"
+unmapped_job_title,HRIS,E01459,"title ""SW Engineer"" not in job_title_map"
+unmapped_job_title,HRIS,E01520,"title ""Acct Executive"" not in job_title_map"
+unmapped_job_title,HRIS,E01533,"title ""Admin Assistant"" not in job_title_map"
+unmapped_job_title,HRIS,E01823,"title ""Warehouse Assoc."" not in job_title_map"
+unmapped_job_title,HRIS,E01981,"title ""Sr. Data Analyst"" not in job_title_map"
+unmapped_job_title,HRIS,E02072,"title ""Data Analyst II"" not in job_title_map"
+unmapped_job_title,HRIS,E02187,"title ""SW Engineer"" not in job_title_map"
+unmapped_job_title,HRIS,E02189,"title ""Acct Executive"" not in job_title_map"
+unmapped_job_title,HRIS,E02315,"title ""Admin Assistant"" not in job_title_map"
+unmapped_job_title,HRIS,E02347,"title ""Warehouse Assoc."" not in job_title_map"
+unmapped_job_title,HRIS,E02467,"title ""Sr. Data Analyst"" not in job_title_map"
+unmapped_job_title,HRIS,E02490,"title ""Data Analyst II"" not in job_title_map"
+unmapped_job_title,HRIS,E02515,"title ""SW Engineer"" not in job_title_map"
+unmapped_job_title,HRIS,E02519,"title ""Acct Executive"" not in job_title_map"
+unmapped_job_title,HRIS,E02561,"title ""Admin Assistant"" not in job_title_map"
+unmapped_job_title,HRIS,E02992,"title ""Warehouse Assoc."" not in job_title_map"
+unmapped_job_title,HRIS,E03109,"title ""Sr. Data Analyst"" not in job_title_map"
+unmapped_job_title,HRIS,E03140,"title ""Data Analyst II"" not in job_title_map"
+unmapped_job_title,HRIS,E03184,"title ""SW Engineer"" not in job_title_map"
+unmapped_job_title,HRIS,E03321,"title ""Acct Executive"" not in job_title_map"
+unmapped_job_title,HRIS,E03336,"title ""Admin Assistant"" not in job_title_map"
+unmapped_job_title,HRIS,E03514,"title ""Warehouse Assoc."" not in job_title_map"
+unmapped_job_title,HRIS,E03520,"title ""Sr. Data Analyst"" not in job_title_map"
+unmapped_job_title,HRIS,E03568,"title ""Data Analyst II"" not in job_title_map"
+unmapped_job_title,HRIS,E03612,"title ""SW Engineer"" not in job_title_map"
+unmapped_job_title,HRIS,E03705,"title ""Acct Executive"" not in job_title_map"
+unmapped_job_title,HRIS,E03767,"title ""Admin Assistant"" not in job_title_map"
+unmapped_job_title,HRIS,E03782,"title ""Warehouse Assoc."" not in job_title_map"
+unmapped_job_title,HRIS,E03839,"title ""Sr. Data Analyst"" not in job_title_map"
+unmapped_job_title,HRIS,E03849,"title ""Data Analyst II"" not in job_title_map"
+unmapped_job_title,HRIS,E03944,"title ""SW Engineer"" not in job_title_map"
