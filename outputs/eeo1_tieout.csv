@@ -1,0 +1,7 @@
+line,value
+"Snapshot headcount (clean, deduplicated)",5632
+Reported in EEO-1 summary,5554
+Excluded: sex or race not reported (HR follow-up),78
+Difference (must be 0),0
+Records excluded for invalid hire date (HR follow-up),12
+Raw HRIS rows removed as duplicates,60

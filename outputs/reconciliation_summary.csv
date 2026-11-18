@@ -1,0 +1,8 @@
+check_name,planted,detected,matched,missed,unexpected,result
+missing_demographics,90,90,90,0,0,PASS
+unmapped_job_title,45,45,45,0,0,PASS
+invalid_hire_date,12,12,12,0,0,PASS
+duplicate_employee_id,60,60,60,0,0,PASS
+demographic_mismatch,30,30,30,0,0,PASS
+ats_hire_missing_in_hris,25,25,25,0,0,PASS
+hris_hire_missing_in_ats,20,20,20,0,0,PASS

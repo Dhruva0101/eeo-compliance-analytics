@@ -1,0 +1,91 @@
+eeo1_category,dimension,group,applicants,hired,selection_rate,reference_group,reference_rate,impact_ratio,fails_four_fifths,z_score,p_value,small_group,finding
+Administrative Support Workers,race_ethnicity,Black or African American,103,26,0.2524,Hispanic or Latino,0.2683,0.941,False,-0.27,0.7868,False,No indication
+Administrative Support Workers,race_ethnicity,White,427,112,0.2623,Hispanic or Latino,0.2683,0.978,False,-0.13,0.8942,False,No indication
+Administrative Support Workers,race_ethnicity,Asian,75,20,0.2667,Hispanic or Latino,0.2683,0.994,False,-0.03,0.98,False,No indication
+Administrative Support Workers,race_ethnicity,Hispanic or Latino,123,33,0.2683,Hispanic or Latino,0.2683,1.0,False,0.0,1.0,False,Reference group
+Administrative Support Workers,race_ethnicity,American Indian or Alaska Native,9,3,0.3333,Hispanic or Latino,0.2683,1.242,False,0.42,0.6724,True,No indication
+Administrative Support Workers,race_ethnicity,Two or More Races,37,13,0.3514,Hispanic or Latino,0.2683,1.31,False,0.98,0.3277,False,No indication
+Administrative Support Workers,race_ethnicity,Native Hawaiian or Other Pacific Islander,6,3,0.5,Hispanic or Latino,0.2683,1.864,False,1.24,0.2166,True,No indication
+Craft Workers,race_ethnicity,Native Hawaiian or Other Pacific Islander,1,0,0.0,White,0.2743,0.0,True,-0.61,0.5389,True,Review: fails 80% rule only
+Craft Workers,race_ethnicity,Asian,45,8,0.1778,White,0.2743,0.648,True,-1.38,0.1665,False,Review: fails 80% rule only
+Craft Workers,race_ethnicity,Black or African American,57,11,0.193,White,0.2743,0.704,True,-1.29,0.196,False,Review: fails 80% rule only
+Craft Workers,race_ethnicity,Hispanic or Latino,113,22,0.1947,White,0.2743,0.71,True,-1.69,0.0914,False,Review: fails 80% rule only
+Craft Workers,race_ethnicity,White,350,96,0.2743,White,0.2743,1.0,False,0.0,1.0,False,Reference group
+Craft Workers,race_ethnicity,American Indian or Alaska Native,8,4,0.5,White,0.2743,1.823,False,1.41,0.1595,True,No indication
+Craft Workers,race_ethnicity,Two or More Races,16,8,0.5,White,0.2743,1.823,False,1.96,0.0503,True,No indication
+Executive/Senior Officials & Managers,race_ethnicity,American Indian or Alaska Native,4,0,0.0,White,0.0775,0.0,True,-0.58,0.5626,True,Review: fails 80% rule only
+Executive/Senior Officials & Managers,race_ethnicity,Native Hawaiian or Other Pacific Islander,2,0,0.0,White,0.0775,0.0,True,-0.41,0.682,True,Review: fails 80% rule only
+Executive/Senior Officials & Managers,race_ethnicity,Asian,15,1,0.0667,White,0.0775,0.86,False,-0.15,0.8809,True,No indication
+Executive/Senior Officials & Managers,race_ethnicity,White,129,10,0.0775,White,0.0775,1.0,False,0.0,1.0,False,Reference group
+Executive/Senior Officials & Managers,race_ethnicity,Hispanic or Latino,38,3,0.0789,White,0.0775,1.018,False,0.03,0.977,False,No indication
+Executive/Senior Officials & Managers,race_ethnicity,Black or African American,26,4,0.1538,White,0.0775,1.985,False,1.24,0.2155,True,No indication
+Executive/Senior Officials & Managers,race_ethnicity,Two or More Races,10,2,0.2,White,0.0775,2.58,False,1.33,0.184,True,No indication
+First/Mid-Level Officials & Managers,race_ethnicity,American Indian or Alaska Native,3,0,0.0,Hispanic or Latino,0.1759,0.0,True,-0.8,0.4249,True,Review: fails 80% rule only
+First/Mid-Level Officials & Managers,race_ethnicity,Two or More Races,20,1,0.05,Hispanic or Latino,0.1759,0.284,True,-1.42,0.1542,True,Review: fails 80% rule only
+First/Mid-Level Officials & Managers,race_ethnicity,Asian,69,7,0.1014,Hispanic or Latino,0.1759,0.577,True,-1.37,0.1722,False,Review: fails 80% rule only
+First/Mid-Level Officials & Managers,race_ethnicity,Black or African American,102,12,0.1176,Hispanic or Latino,0.1759,0.669,True,-1.19,0.2341,False,Review: fails 80% rule only
+First/Mid-Level Officials & Managers,race_ethnicity,White,376,52,0.1383,Hispanic or Latino,0.1759,0.786,True,-0.97,0.33,False,Review: fails 80% rule only
+First/Mid-Level Officials & Managers,race_ethnicity,Hispanic or Latino,108,19,0.1759,Hispanic or Latino,0.1759,1.0,False,0.0,1.0,False,Reference group
+First/Mid-Level Officials & Managers,race_ethnicity,Native Hawaiian or Other Pacific Islander,3,1,0.3333,Hispanic or Latino,0.1759,1.895,False,0.7,0.4841,True,No indication
+Laborers & Helpers,race_ethnicity,American Indian or Alaska Native,14,4,0.2857,Hispanic or Latino,0.4057,0.704,True,-0.88,0.3772,True,Review: fails 80% rule only
+Laborers & Helpers,race_ethnicity,Native Hawaiian or Other Pacific Islander,9,3,0.3333,Hispanic or Latino,0.4057,0.822,False,-0.43,0.6658,True,No indication
+Laborers & Helpers,race_ethnicity,Black or African American,130,46,0.3538,Hispanic or Latino,0.4057,0.872,False,-0.92,0.3569,False,No indication
+Laborers & Helpers,race_ethnicity,White,519,194,0.3738,Hispanic or Latino,0.4057,0.921,False,-0.75,0.4523,False,No indication
+Laborers & Helpers,race_ethnicity,Two or More Races,23,9,0.3913,Hispanic or Latino,0.4057,0.964,False,-0.13,0.8947,True,No indication
+Laborers & Helpers,race_ethnicity,Hispanic or Latino,175,71,0.4057,Hispanic or Latino,0.4057,1.0,False,0.0,1.0,False,Reference group
+Laborers & Helpers,race_ethnicity,Asian,98,40,0.4082,Hispanic or Latino,0.4057,1.006,False,0.04,0.9685,False,No indication
+Operatives,race_ethnicity,Native Hawaiian or Other Pacific Islander,5,1,0.2,White,0.2852,0.701,True,-0.42,0.675,True,Review: fails 80% rule only
+Operatives,race_ethnicity,American Indian or Alaska Native,4,1,0.25,White,0.2852,0.876,False,-0.16,0.8767,True,No indication
+Operatives,race_ethnicity,Black or African American,85,23,0.2706,White,0.2852,0.949,False,-0.26,0.7912,False,No indication
+Operatives,race_ethnicity,White,298,85,0.2852,White,0.2852,1.0,False,0.0,1.0,False,Reference group
+Operatives,race_ethnicity,Hispanic or Latino,87,27,0.3103,White,0.2852,1.088,False,0.45,0.6501,False,No indication
+Operatives,race_ethnicity,Asian,62,28,0.4516,White,0.2852,1.583,False,2.57,0.0102,False,No indication
+Operatives,race_ethnicity,Two or More Races,13,7,0.5385,White,0.2852,1.888,False,1.96,0.0502,True,No indication
+Professionals,race_ethnicity,Native Hawaiian or Other Pacific Islander,10,1,0.1,Black or African American,0.2077,0.481,True,-0.83,0.4067,True,Review: fails 80% rule only
+Professionals,race_ethnicity,Hispanic or Latino,348,57,0.1638,Black or African American,0.2077,0.789,True,-1.39,0.1657,False,Review: fails 80% rule only
+Professionals,race_ethnicity,White,1086,189,0.174,Black or African American,0.2077,0.838,False,-1.27,0.205,False,No indication
+Professionals,race_ethnicity,Asian,214,40,0.1869,Black or African American,0.2077,0.9,False,-0.56,0.5724,False,No indication
+Professionals,race_ethnicity,Two or More Races,64,13,0.2031,Black or African American,0.2077,0.978,False,-0.08,0.9356,False,No indication
+Professionals,race_ethnicity,Black or African American,260,54,0.2077,Black or African American,0.2077,1.0,False,0.0,1.0,False,Reference group
+Professionals,race_ethnicity,American Indian or Alaska Native,22,5,0.2273,Black or African American,0.2077,1.094,False,0.22,0.8284,True,No indication
+Sales Workers,race_ethnicity,Black or African American,173,24,0.1387,Asian,0.3111,0.446,True,-3.66,0.0003,False,Adverse impact indicated
+Sales Workers,race_ethnicity,Native Hawaiian or Other Pacific Islander,19,3,0.1579,Asian,0.3111,0.508,True,-1.37,0.1691,True,Review: fails 80% rule only
+Sales Workers,race_ethnicity,American Indian or Alaska Native,13,3,0.2308,Asian,0.3111,0.742,True,-0.6,0.5476,True,Review: fails 80% rule only
+Sales Workers,race_ethnicity,Hispanic or Latino,224,65,0.2902,Asian,0.3111,0.933,False,-0.42,0.6745,False,No indication
+Sales Workers,race_ethnicity,White,779,229,0.294,Asian,0.3111,0.945,False,-0.4,0.6872,False,No indication
+Sales Workers,race_ethnicity,Asian,135,42,0.3111,Asian,0.3111,1.0,False,0.0,1.0,False,Reference group
+Sales Workers,race_ethnicity,Two or More Races,40,13,0.325,Asian,0.3111,1.045,False,0.17,0.868,False,No indication
+Service Workers,race_ethnicity,Native Hawaiian or Other Pacific Islander,3,0,0.0,White,0.3187,0.0,True,-1.18,0.2374,True,Review: fails 80% rule only
+Service Workers,race_ethnicity,Asian,56,12,0.2143,White,0.3187,0.672,True,-1.54,0.1229,False,Review: fails 80% rule only
+Service Workers,race_ethnicity,Hispanic or Latino,92,27,0.2935,White,0.3187,0.921,False,-0.45,0.6548,False,No indication
+Service Workers,race_ethnicity,White,251,80,0.3187,White,0.3187,1.0,False,0.0,1.0,False,Reference group
+Service Workers,race_ethnicity,American Indian or Alaska Native,3,1,0.3333,White,0.3187,1.046,False,0.05,0.957,True,No indication
+Service Workers,race_ethnicity,Black or African American,68,23,0.3382,White,0.3187,1.061,False,0.31,0.7602,False,No indication
+Service Workers,race_ethnicity,Two or More Races,21,8,0.381,White,0.3187,1.195,False,0.59,0.5582,True,No indication
+Technicians,race_ethnicity,White,610,106,0.1738,Hispanic or Latino,0.2316,0.75,True,-1.74,0.082,False,Review: fails 80% rule only
+Technicians,race_ethnicity,Asian,98,19,0.1939,Hispanic or Latino,0.2316,0.837,False,-0.73,0.4678,False,No indication
+Technicians,race_ethnicity,American Indian or Alaska Native,14,3,0.2143,Hispanic or Latino,0.2316,0.925,False,-0.15,0.882,True,No indication
+Technicians,race_ethnicity,Black or African American,139,30,0.2158,Hispanic or Latino,0.2316,0.932,False,-0.33,0.7382,False,No indication
+Technicians,race_ethnicity,Two or More Races,31,7,0.2258,Hispanic or Latino,0.2316,0.975,False,-0.07,0.9433,False,No indication
+Technicians,race_ethnicity,Hispanic or Latino,177,41,0.2316,Hispanic or Latino,0.2316,1.0,False,0.0,1.0,False,Reference group
+Technicians,race_ethnicity,Native Hawaiian or Other Pacific Islander,15,5,0.3333,Hispanic or Latino,0.2316,1.439,False,0.89,0.3756,True,No indication
+Administrative Support Workers,sex,Male,407,106,0.2604,Female,0.2625,0.992,False,-0.06,0.9485,False,No indication
+Administrative Support Workers,sex,Female,381,100,0.2625,Female,0.2625,1.0,False,0.0,1.0,False,Reference group
+Craft Workers,sex,Male,317,76,0.2397,Female,0.2662,0.901,False,-0.74,0.4587,False,No indication
+Craft Workers,sex,Female,278,74,0.2662,Female,0.2662,1.0,False,0.0,1.0,False,Reference group
+Executive/Senior Officials & Managers,sex,Female,115,7,0.0609,Male,0.1284,0.474,True,-1.73,0.0829,False,Review: fails 80% rule only
+Executive/Senior Officials & Managers,sex,Male,109,14,0.1284,Male,0.1284,1.0,False,0.0,1.0,False,Reference group
+First/Mid-Level Officials & Managers,sex,Male,349,39,0.1117,Female,0.1571,0.711,True,-1.74,0.0825,False,Review: fails 80% rule only
+First/Mid-Level Officials & Managers,sex,Female,331,52,0.1571,Female,0.1571,1.0,False,0.0,1.0,False,Reference group
+Laborers & Helpers,sex,Male,500,185,0.37,Female,0.374,0.989,False,-0.13,0.8976,False,No indication
+Laborers & Helpers,sex,Female,484,181,0.374,Female,0.374,1.0,False,0.0,1.0,False,Reference group
+Operatives,sex,Male,283,85,0.3004,Female,0.3045,0.986,False,-0.11,0.9141,False,No indication
+Operatives,sex,Female,289,88,0.3045,Female,0.3045,1.0,False,0.0,1.0,False,Reference group
+Professionals,sex,Female,994,172,0.173,Male,0.1885,0.918,False,-0.91,0.3629,False,No indication
+Professionals,sex,Male,1061,200,0.1885,Male,0.1885,1.0,False,0.0,1.0,False,Reference group
+Sales Workers,sex,Male,700,189,0.27,Female,0.2803,0.963,False,-0.43,0.6656,False,No indication
+Sales Workers,sex,Female,710,199,0.2803,Female,0.2803,1.0,False,0.0,1.0,False,Reference group
+Service Workers,sex,Male,277,84,0.3032,Female,0.3043,0.996,False,-0.03,0.9786,False,No indication
+Service Workers,sex,Female,230,70,0.3043,Female,0.3043,1.0,False,0.0,1.0,False,Reference group
+Technicians,sex,Female,515,61,0.1184,Male,0.2588,0.458,True,-5.9,0.0,False,Adverse impact indicated
+Technicians,sex,Male,595,154,0.2588,Male,0.2588,1.0,False,0.0,1.0,False,Reference group
